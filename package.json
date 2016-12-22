@@ -1,19 +1,26 @@
 {
   "name": "@bitlogic/dev-env",
   "version": "1.0.0",
-  "description": "",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neofusionzero/fcc-how-to-npm.git"
+    "url": "git+https://github.com/neofusionzero/dev-env.git"
   },
   "author": "bitlogic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neofusionzero/fcc-how-to-npm/issues"
+    "url": "https://github.com/neofusionzero/dev-env/issues"
   },
-  "homepage": "https://github.com/neofusionzero/fcc-how-to-npm#readme"
+  "homepage": "https://github.com/neofusionzero/dev-env#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "npm"
+  ]
 }
