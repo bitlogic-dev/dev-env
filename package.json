@@ -16,9 +16,7 @@
     "url": "https://github.com/neofusionzero/dev-env/issues"
   },
   "homepage": "https://github.com/neofusionzero/dev-env#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "keywords": [
     "npm"
